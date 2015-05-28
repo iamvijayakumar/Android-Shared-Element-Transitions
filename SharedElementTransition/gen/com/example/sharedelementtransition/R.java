@@ -1912,7 +1912,7 @@ containing a value of this type.
         public static final int alertTitle=0x7f090030;
         public static final int always=0x7f090019;
         public static final int beginning=0x7f090020;
-        public static final int button1=0x7f090051;
+        public static final int button1=0x7f090052;
         public static final int buttonPanel=0x7f090036;
         public static final int checkbox=0x7f090038;
         public static final int collapseActionView=0x7f09001a;
@@ -1934,6 +1934,7 @@ containing a value of this type.
         public static final int ifRoom=0x7f09001b;
         public static final int image=0x7f090028;
         public static final int imageView1=0x7f090050;
+        public static final int imageView2=0x7f090051;
         public static final int listMode=0x7f09000a;
         public static final int list_item=0x7f09002a;
         public static final int middle=0x7f090022;

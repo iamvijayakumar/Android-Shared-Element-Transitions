@@ -11,5 +11,10 @@
          android:transitionName="shared_image"
         android:layout_height="150dp"
         android:src="@drawable/ic_launcher" />
-
+<ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="match_parent"
+         android:transitionName="shared_image1"
+        android:layout_height="150dp"
+        android:src="@drawable/ic_launcher" />
 </LinearLayout>
